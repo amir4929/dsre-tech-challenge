@@ -1,6 +1,6 @@
-# DSRE Technical Challenge
+# SRE Technical Challenge
 
-This is the DSRE Tech challenge. We use this challenge to help measure a candidate's technical capabilities and fit for working at DSRE.
+This is the SRE Tech challenge. We use this challenge to help measure a candidate's technical capabilities and fit for working at SRE.
 
 The scope of this challenge is to deploy a simple GTD application backed by a PostgreSQL database into a cloud environment of your choice (AWS, Azure, or GCP).
 
@@ -8,7 +8,7 @@ The scope of this challenge is to deploy a simple GTD application backed by a Po
 
 The solution you come up with should be able to be deployed into an empty cloud environment with no existing infrastructure in place.
 
-There _should not_ be a requirement for DSRE to access your cloud environment to deploy this solution.
+There _should not_ be a requirement for SRE to access your cloud environment to deploy this solution.
 
 Candidates should demonstrate good git practices and work flows i.e. Regular commits.
 
