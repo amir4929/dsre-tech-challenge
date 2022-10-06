@@ -2,7 +2,7 @@
 
 This is the SRE Tech challenge. We use this challenge to help measure a candidate's technical capabilities and fit for working at SRE.
 
-The scope of this challenge is to deploy a simple GTD application backed by a PostgreSQL database into a cloud environment of your choice (AWS, Azure, or GCP).
+The scope of this challenge is to deploy a Example Voting App](https://github.com/dockersamples/example-voting-app) into a cloud environment of your choice (AWS, Azure, or GCP).
 
 ## Assessment Requirements
 
@@ -76,11 +76,6 @@ The [Example Voting App](https://github.com/dockersamples/example-voting-app) is
 
 It is completely self contained, 
 
-Note - Please login to the repo and identify how to deploy the application. 
+Note - Please login to the Example Voting App](https://github.com/dockersamples/example-voting-app) repo and identify how to deploy the application. 
 
-## Endpoints
-
-`/` - root endpoint that will load the SPA
-
-`/healthcheck/` - Used to validate the health of the application
 
